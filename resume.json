@@ -1,0 +1,76 @@
+{
+    "base-id":"yeehaa::5619450700",
+    "revision":0,
+    "curator":"yeehaa",
+    "goal":"Code Your Resume",
+    "course-slug":"code-your-resume",
+    "checkpoints":[
+        {
+            "tags":[
+                "resume",
+                "linkedin"
+            ],
+            "checkpoint-id":0,
+            "task":"Find Your Resume",
+            "checkpoint-slug":"find-your-resume",
+            "url":"http://linkedin.com",
+            "completed?":false
+        },
+        {
+            "tags":[
+                "html",
+                "elements",
+                "video"
+            ],
+            "checkpoint-id":1,
+            "task":"Study HTML Elements",
+            "checkpoint-slug":"study-html-elements",
+            "url":"https://www.youtube.com/watch?v=eOBOmINX6l8",
+            "completed?":false
+        },
+        {
+            "tags":[
+                "overview",
+                "html",
+                "elements"
+            ],
+            "checkpoint-id":2,
+            "task":"Map Your Recipe To HTML",
+            "checkpoint-slug":"map-your-recipe-to-html-elements",
+            "url":"http://www.w3schools.com/tags/",
+            "completed?":false
+        },
+        {
+            "tags":[
+                "image",
+                "html"
+            ],
+            "checkpoint-id":3,
+            "task":"Learn About Images",
+            "checkpoint-slug":"learn-about-images",
+            "url":"https://developer.mozilla.org/en-US/Learn/HTML/Multimedia_and_embedding/Images_in_HTML",
+            "completed?":false
+        },
+        {
+            "tags":[
+                "profile-picture",
+                "image"
+            ],
+            "checkpoint-id":4,
+            "task":"Add an Image",
+            "checkpoint-slug":"add-this-image-to-your-resume",
+            "url":"http://g-ecx.images-amazon.com/images/G/01/aplusautomation/vendorimages/65fa961e-8f22-4fe6-a420-3c3c26dd2953.jpg._CB289161999__SL300__.jpg",
+            "completed?":false
+        }
+    ],
+    "forks":[
+
+    ],
+    "version":null,
+    "timestamp":1465912594616,
+    "course-id":"yeehaa::5619450700",
+    "flags":[
+        "featured"
+    ],
+    "forked-from":null
+}

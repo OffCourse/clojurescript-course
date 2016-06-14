@@ -1,0 +1,73 @@
+{
+    "base-id":"yeehaa::2857315973",
+    "revision":0,
+    "curator":"yeehaa",
+    "goal":"Learn How To Decide",
+    "course-slug":"learn-how-to-decide",
+    "checkpoints":[
+        {
+            "tags":[
+                "problem"
+            ],
+            "checkpoint-id":0,
+            "task":"Define Your Problem",
+            "checkpoint-slug":"define-your-problem",
+            "url":"https://www.entrepreneur.com/article/237668",
+            "completed?":false
+        },
+        {
+            "tags":[
+                "list-making",
+                "benefits",
+                "problems"
+            ],
+            "checkpoint-id":1,
+            "task":"List Pros And Cons",
+            "checkpoint-slug":"list-pros-and-cons",
+            "url":"http://changingminds.org/disciplines/argument/types_reasoning/pro-con.htm",
+            "completed?":false
+        },
+        {
+            "tags":[
+                "prioritization"
+            ],
+            "checkpoint-id":2,
+            "task":"Weigh Pros And Cons",
+            "checkpoint-slug":"weigh-pros-and-cons",
+            "url":"http://lifehacker.com/132327/geek-to-live--four-ways-to-make-a-big-decision",
+            "completed?":false
+        },
+        {
+            "tags":[
+                "decision",
+                "tree"
+            ],
+            "checkpoint-id":3,
+            "task":"Make A Decision Tree",
+            "checkpoint-slug":"make-a-decision-tree",
+            "url":"https://www.smartdraw.com/decision-tree/",
+            "completed?":false
+        },
+        {
+            "tags":[
+                "gambling",
+                "coins"
+            ],
+            "checkpoint-id":4,
+            "task":"Flip A Coin",
+            "checkpoint-slug":"flip-a-coin",
+            "url":"http://justflipacoin.com/",
+            "completed?":false
+        },
+    ],
+    "forks":[
+
+    ],
+    "version":null,
+    "timestamp":1465909663755,
+    "course-id":"yeehaa::2857315973",
+    "flags":[
+        "featured"
+    ],
+    "forked-from":null
+}
