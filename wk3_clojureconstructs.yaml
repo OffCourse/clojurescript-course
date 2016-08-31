@@ -1,0 +1,23 @@
+curator: charlotte
+goal: Clojure Constructs
+checkpoints:
+  - task: Think in parallel
+    url: 'https://www.youtube.com/watch?v=eRq5UBx6cbA&list=PLZdCLR02grLq4e8-1P2JNHBKUOLFTX3kb&index=17'
+    tags:
+      - parallel programs 
+   - task: Multi-thread your programs
+    url: 'http://codepodcast.com/s0e3.html'
+    tags:
+      - concurrency
+      - events
+      - coroutines       
+   - task: Master concurrency with core.async
+    url: 'http://www.braveclojure.com/core-async/'
+    tags: 
+      - concurrency
+      - core.async
+  - task: Core.async from the horse's mouth
+    url: 'http://blog.cognitect.com/cognicast/035-rich-hickey-and-coreasync'
+    tags: 
+      - core.async
+      - rich hickey 

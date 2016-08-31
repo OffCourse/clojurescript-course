@@ -1,0 +1,23 @@
+curator: charlotte
+goal: Get Functional
+checkpoints:
+  - task: Don't be scared of functional programming
+    url: 'https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/'
+    tags:
+      - functional programming
+  - task: Adopt a functional style
+    url: 'https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9#.jj8epzqkf'
+    tags:
+      - functional programming
+  - task: Master some core concepts
+    url: http://www.braveclojure.com/functional-programming/
+    tags: 
+      - functional programming
+  - task: View some live coding examples
+    url: https://www.youtube.com/playlist?list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC
+    tags: 
+      - functional programming
+  - task: Simplify a program
+    url: 'https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html#a-brief-encounter'
+    tags: 
+      - functional programming

@@ -1,0 +1,27 @@
+curator: charlotte
+goal: Clojure Components
+checkpoints:
+  - task: Abstract with multimethods, protocols, and records
+    url: 'http://www.braveclojure.com/multimethods-records-protocols/'
+    tags:
+      - multimethods
+      - protocols
+      - records
+   - task: Include clojure.spec
+    url: 'http://clojure.org/about/spec'
+    tags:
+      - clojure.spec       
+   - task: Write spec for a Clojure function
+    url: 'http://gigasquidsoftware.com/blog/2016/05/29/one-fish-spec-fish/'
+    tags: 
+      - clojure.spec
+  - task: Clojure.spec from the horse's mouth
+    url: 'http://blog.cognitect.com/cognicast/103'
+    tags: 
+      - clojure.spec
+      - rich hickey 
+  - task: Use components for structure
+    url: 'https://www.youtube.com/watch?v=13cmHf_kt-Q'
+    tags: 
+      - components
+      - structure
