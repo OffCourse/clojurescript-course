@@ -1,4 +1,8 @@
 curator: charlotte
+base-id: offcourse::charlotte::12345
+course-id: offcourse::charlotte::12345
+flags:
+  - featured
 goal: Get Functional
 checkpoints:
   - task: Don't be scared of functional programming
