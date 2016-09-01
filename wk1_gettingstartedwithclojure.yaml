@@ -1,4 +1,5 @@
 goal: Getting Started with Clojure
+curator: charlotte
 checkpoints:
   - task: Set up your editor
     resource-url: 'https://atom.io/packages/proto-repl'
