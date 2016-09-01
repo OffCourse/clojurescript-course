@@ -1,0 +1,10 @@
+goal: Clojure Constructs
+checkpoints:
+  - task: Think in parallel
+    resource-url: 'https://www.youtube.com/watch?v=eRq5UBx6cbA&list=PLZdCLR02grLq4e8-1P2JNHBKUOLFTX3kb&index=17'
+  - task: Multi-thread your programs
+    resource-url: 'http://codepodcast.com/s0e3.html'
+  - task: Master concurrency with core.async
+    resource-url: 'http://www.braveclojure.com/core-async/'
+  - task: Core.async from the horse's mouth
+    resource-url: 'http://blog.cognitect.com/cognicast/035-rich-hickey-and-coreasync'
