@@ -1,0 +1,10 @@
+goal: From Clojure to ClojureScript
+checkpoints:
+  - task: Get to know ClojureScript's basics
+    resource-url: 'http://funcool.github.io/clojurescript-unraveled/#language-the-basics'
+  - task: Use ClojureScript with JavaScript
+    resource-url: 'https://lambdaisland.com/episodes/clojurescript-interop'
+  - task: Use ClojureScript with Node
+    resource-url: 'http://www.mase.io/code/clojure/node/2015/01/24/getting-started-with-clojurecript-and-node/'
+  - task: Compile your programs with Boot
+    resource-url: 'https://www.youtube.com/watch?v=TcnzB2tB-8Q&index=10&list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a'
