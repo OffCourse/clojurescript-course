@@ -1,4 +1,6 @@
 goal: Get Functional
+organization: offcourse
+curator: charlotte
 checkpoints:
   - task: Don't be scared of functional programming
     resource-url: 'https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/'
