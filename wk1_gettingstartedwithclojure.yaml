@@ -1,34 +1,14 @@
-curator: charlotte
 goal: Getting Started with Clojure
 checkpoints:
   - task: Set up your editor
-    url: 'https://atom.io/packages/proto-repl'
-    tags:
-      - editor
-      - atom
+    resource-url: 'https://atom.io/packages/proto-repl'
   - task: Work with structural editing
-    url: 'https://atom.io/packages/parinfer'
-    tags: 
-      - structural editing
-      - parinfer
+    resource-url: 'https://atom.io/packages/parinfer'
   - task: Learn basic Clojure syntax
-    url: 'https://purelyfunctional.tv/intro-to-clojure/getting-our-feet-wet/'
-    tags:
-      - clojure    
+    resource-url: 'https://purelyfunctional.tv/intro-to-clojure/getting-our-feet-wet/'
   - task: Do things with Clojure
-    url: 'http://www.braveclojure.com/do-things' 
-    tags: 
-      - clojure 
-      - lisp
+    resource-url: 'http://www.braveclojure.com/do-things' 
   - task: Take a deep dive into Clojure's core functions
-    url: 'http://www.braveclojure.com/core-functions-in-depth/'
-    tags: 
-      - clojure
-      - functions
-      - map 
-      - reduce
+    resource-url: 'http://www.braveclojure.com/core-functions-in-depth/'
   - task: Write FizzBuzz in Clojure
-    url: 'http://gigasquidsoftware.com/blog/2014/11/13/clojure-fizzbuzz-without-conditionals/' 
-    tags: 
-      - clojure
-      - fizzbuzz 
+    resource-url: 'http://gigasquidsoftware.com/blog/2014/11/13/clojure-fizzbuzz-without-conditionals/' 
